@@ -1,0 +1,8 @@
+D:\Huyefen\CyberSlacking\4fun\MiningTheBombs\Mines\Mines\obj\Debug\net5.0-windows\Mines.csproj.AssemblyReference.cache
+D:\Huyefen\CyberSlacking\4fun\MiningTheBombs\Mines\Mines\obj\Debug\net5.0-windows\Mines.Form1.resources
+D:\Huyefen\CyberSlacking\4fun\MiningTheBombs\Mines\Mines\obj\Debug\net5.0-windows\Mines.Properties.Resources.resources
+D:\Huyefen\CyberSlacking\4fun\MiningTheBombs\Mines\Mines\obj\Debug\net5.0-windows\Mines.csproj.GenerateResource.cache
+D:\Huyefen\CyberSlacking\4fun\MiningTheBombs\Mines\Mines\obj\Debug\net5.0-windows\Mines.GeneratedMSBuildEditorConfig.editorconfig
+D:\Huyefen\CyberSlacking\4fun\MiningTheBombs\Mines\Mines\obj\Debug\net5.0-windows\Mines.AssemblyInfoInputs.cache
+D:\Huyefen\CyberSlacking\4fun\MiningTheBombs\Mines\Mines\obj\Debug\net5.0-windows\Mines.AssemblyInfo.cs
+D:\Huyefen\CyberSlacking\4fun\MiningTheBombs\Mines\Mines\obj\Debug\net5.0-windows\Mines.csproj.CoreCompileInputs.cache
